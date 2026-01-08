@@ -22,6 +22,12 @@
 
 作为原始 X-UI 项目的增强版本，3X-UI 提供了更好的稳定性、更广泛的协议支持和额外的功能。
 
+## 服务器系统更新及安装组件
+
+```
+apt update -y && apt install -y curl && apt install -y socat
+```
+
 ## 快速开始
 
 ```
