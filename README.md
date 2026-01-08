@@ -22,6 +22,12 @@
 
 As an enhanced fork of the original X-UI project, 3X-UI provides improved stability, broader protocol support, and additional features.
 
+## Server system updates and component installation
+
+```bash
+apt update -y && apt install -y curl && apt install -y socat
+```
+
 ## Quick Start
 
 ```bash
