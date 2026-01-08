@@ -25,19 +25,13 @@ As an enhanced fork of the original X-UI project, 3X-UI provides improved stabil
 ## Server system updates and component installation
 
 ```bash
-apt update -y && apt install -y curl && apt install -y socat
+apt update -y && apt install -y curl sudo wget git socat
 ```
 
 ## Quick Start
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
-```
-
-## Since you are already root, you can execute the command directly:
-
-```bash
-bash vpn.sh
 ```
 
 ## Enable BBR acceleration
