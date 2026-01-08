@@ -40,6 +40,12 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 bash vpn.sh
 ```
 
+## Enable BBR acceleration
+
+```bash
+x-ui → 选择数字23 → 选择1. Enable BBR → 选择1. Enable BBR
+```
+
 For full documentation, please visit the [project Wiki](https://github.com/MHSanaei/3x-ui/wiki).
 
 ## A Special Thanks to
