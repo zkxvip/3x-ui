@@ -34,6 +34,12 @@ apt update -y && apt install -y curl && apt install -y socat
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 ```
 
+## Since you are already root, you can execute the command directly:
+
+```bash
+bash vpn.sh
+```
+
 For full documentation, please visit the [project Wiki](https://github.com/MHSanaei/3x-ui/wiki).
 
 ## A Special Thanks to
